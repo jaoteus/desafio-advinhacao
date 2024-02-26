@@ -9,7 +9,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-
         while (true) {
             try {
                 numeroAleatorio = aleatorio.nextInt(1, 6);
